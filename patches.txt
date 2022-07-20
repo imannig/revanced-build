@@ -5,7 +5,6 @@ hide-shorts-button
 disable-fullscreen-panels
 force-vp9-codec
 enable-wide-searchbar
-custom-branding
 hide-autoplay-button
 hide-cast-button
 old-quality-layout

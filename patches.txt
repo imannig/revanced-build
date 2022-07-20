@@ -6,7 +6,6 @@ background-play
 hide-get-premium
 video-ads
 general-ads
-microg-support
 hdr-auto-brightness
 custom-playback-speed
 enable-debugging
